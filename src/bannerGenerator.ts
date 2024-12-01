@@ -1,7 +1,10 @@
-import { createCanvas, loadImage } from '@napi-rs/canvas';
+import { createCanvas } from '@napi-rs/canvas';
 import type { TrackSchema } from './LastFmApi';
 
-export async function generateBanner(tracks: Array<TrackSchema>) {
+/**
+ * This function generates a banner based on the tracks provided.
+ */
+export async function generateBanner(tracks: Array<TrackSchema>): Promise<Buffer> {
 	const canvas = createCanvas(800, 400);
 	const ctx = canvas.getContext('2d');
 
@@ -31,7 +34,5 @@ export async function generateBanner(tracks: Array<TrackSchema>) {
 	ctx.lineWidth = 5;
 	ctx.strokeRect(10, 10, canvas.width - 20, canvas.height - 20);
 
-	// Save the image
-	const buffer = canvas.toBuffer('image/png');
-	await Bun.write('top_tracks_banner.png', buffer);
+	return canvas.toBuffer('image/png');
 }

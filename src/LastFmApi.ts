@@ -1,18 +1,18 @@
-import { z } from "zod";
+import { z, type ZodTypeAny } from "zod";
 
 type ResponseFormat = 'json' | 'xml';
 type Period = 'overall' | '7day' | '1month' | '3month' | '6month' | '12month';
 
-const ImageSchema = z.object({
+const ImageSchema: ZodTypeAny = z.object({
 	'#text': z.string().url(),
 	size: z.enum(['small', 'medium', 'large', 'extralarge']),
 });
 
-const ArtistSchema = z.object({
+const ArtistSchema: ZodTypeAny = z.object({
 	name: z.string(),
 	url: z.string().url(),
 });
-export const TrackSchema = z.object({
+export const TrackSchema: ZodTypeAny = z.object({
 	name: z.string(),
 	playcount: z.string().transform(Number),
 	mbid: z.string().optional(),
@@ -42,6 +42,11 @@ const TopTracksResponseSchema = z.object({
 		}),
 	}),
 });
+
+/**
+ * This class provides functionality regarding communicating with Last.fm API and retrieving the top tracks of
+ * a period.
+ */
 export class LastFmApi {
 	private static readonly BASE_URL = `https://ws.audioscrobbler.com/2.0`;
 	private static readonly RESPONSE_FORMAT: ResponseFormat = `json`;
