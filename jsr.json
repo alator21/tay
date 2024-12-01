@@ -2,5 +2,12 @@
   "name": "@alator21/tay",
   "version": "0.1.1",
   "license": "MIT",
-  "exports": "./src/index.ts"
+  "exports": "./src/index.ts",
+  "publish": {
+    "include": [
+      "README.md",
+      "package.json",
+      "src"
+    ]
+  }
 }
