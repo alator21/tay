@@ -1,0 +1,15 @@
+{
+  "name": "tay",
+  "module": "src/index.ts",
+  "type": "module",
+    "dependencies": {
+    "@napi-rs/canvas": "^0.1.64",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
