@@ -1,8 +1,11 @@
 {
   "name": "tay",
   "module": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
   "type": "module",
-    "dependencies": {
+  "dependencies": {
     "@napi-rs/canvas": "^0.1.64",
     "zod": "^3.23.8"
   },
