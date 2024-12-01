@@ -78,4 +78,4 @@ const GetTopTracksResponse = z.object({
 		}),
 	}),
 });
-type GetTopTracksResponse = z.infer<typeof GetTopTracksResponse>;
+export type GetTopTracksResponse = z.infer<typeof GetTopTracksResponse>;
