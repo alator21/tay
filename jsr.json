@@ -8,6 +8,9 @@
       "README.md",
       "package.json",
       "src"
+    ],
+    "exclude": [
+      "src/**/*.test.ts"
     ]
   }
 }
