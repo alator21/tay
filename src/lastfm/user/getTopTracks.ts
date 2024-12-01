@@ -14,7 +14,9 @@ export function constructUrl(baseUrl: string, apiKey: string, request: GetTopTra
 	url.searchParams.set(`extended`, '1');
 	return url;
 }
-
+/**
+ * Get top tracks of user.
+ */
 export async function getTopTracks(request: GetTopTracksRequest): Promise<GetTopTracksResponse> {
 	const api = getApi();
 	const url = constructUrl(api.baseUrl, api.apiKey, request);

@@ -5,6 +5,10 @@ const LAST_FM_API: {
 	baseUrl: 'https://ws.audioscrobbler.com/2.0',
 	apiKey: 'NOT_INITIALIZED'
 };
+
+/**
+ * Initialize the last fm integration with your API key.
+ */
 export function initializeLastFmApi(apiKey: string) {
 	if (LAST_FM_API.apiKey !== 'NOT_INITIALIZED') {
 		throw new Error('Last FM API is already initialized');
