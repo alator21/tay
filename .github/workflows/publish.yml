@@ -16,3 +16,4 @@ jobs:
       - uses: oven-sh/setup-bun@v2
       - run: bun install --frozen-lockfile
       - run: bunx jsr publish --allow-slow-types
+      # Remove slow types flag when they address this https://github.com/denoland/deno/issues/23126
