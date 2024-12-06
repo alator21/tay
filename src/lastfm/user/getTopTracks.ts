@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { getApi } from "../api";
 
-export function constructUrl(baseUrl: string, apiKey: string, request: GetTopTracksRequest): URL {
+function constructUrl(baseUrl: string, apiKey: string, request: GetTopTracksRequest): URL {
 	const { user, period, limit, page } = request;
 	const url = new URL(baseUrl);
 	url.searchParams.set(`method`, `user.gettoptracks`);
