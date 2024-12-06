@@ -10,7 +10,7 @@ const LAST_FM_API: {
  * Initialize the last fm integration with your API key.
  */
 export function initializeLastFmApi(apiKey: string) {
-	if (LAST_FM_API.apiKey !== 'NOT_INITIALIZED') {
+	if (isApiInitialized()) {
 		throw new Error('Last FM API is already initialized');
 	}
 	LAST_FM_API.apiKey = apiKey;
