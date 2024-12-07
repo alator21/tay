@@ -1,9 +1,18 @@
-import type { GetTopTracksResponse } from "../lastfm/user/getTopTracks";
+import { pluralize } from "../internal/pluralize";
+import type { GetTopTracksResponse, Period } from "../lastfm/user/getTopTracks";
 
 type Track = GetTopTracksResponse['toptracks']['track'][0];
 type GenerateTextBannerRequest = {
 	tracks: Array<Track>;
+	period: Period;
 	style: 'default' | 'experimental';
+};
+
+function constructHeader(period: Period): string {
+	if (period === '7day') {
+		return '## My top tracks last week!\n';
+	}
+	throw new Error(`Not supported period ${period}`);
 };
 
 
@@ -11,22 +20,22 @@ type GenerateTextBannerRequest = {
  * returns the top tracks of the week in markdown format
  */
 export async function generateTextBanner(request: GenerateTextBannerRequest): Promise<string> {
-	const { tracks: allTracks, style } = request;
+	const { tracks: allTracks, period, style } = request;
 	const tracks = allTracks.slice(0, 5);
 	if (style === 'default') {
-		return defaultStyle(tracks);
+		return defaultStyle(tracks, period);
 	}
 	return experimentalStyle(tracks);
 }
 
 
-async function defaultStyle(tracks: Array<Track>): Promise<string> {
-	let formattedText = `## My top tracks this week!\n`;
+async function defaultStyle(tracks: Array<Track>, period: Period): Promise<string> {
+	let formattedText = constructHeader(period);
 
 	for (let i = 0; i < tracks.length; i++) {
 		const track = tracks[i];
 		const index = i + 1;
-		formattedText += `${index}. **${track.name}** by **${track.artist.name}** played **${track.playcount}** times\n`;
+		formattedText += `${index}. **${track.name}** by **${track.artist.name}** played **${track.playcount}** ${pluralize(track.playcount, 'time', 'times')}\n`;
 	}
 
 	return formattedText;

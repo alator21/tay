@@ -11,7 +11,7 @@ describe("text_banner_generator", () => {
 		const tracks = await Bun.file('src/banner/__tests__/mock-tracks.json').json();
 		// const tracks = await getTopTracks({ user: 'alator21' });
 
-		const banner = await generateTextBanner({ tracks: tracks.toptracks.track, style: 'default' });
+		const banner = await generateTextBanner({ tracks: tracks.toptracks.track, period: '7day', style: 'default' });
 		console.log(banner);
 	});
 
@@ -19,7 +19,7 @@ describe("text_banner_generator", () => {
 		const tracks = await Bun.file('src/banner/__tests__/mock-tracks.json').json();
 		// const tracks = await getTopTracks({ user: 'alator21' });
 
-		const banner = await generateTextBanner({ tracks: tracks.toptracks.track, style: 'experimental' });
+		const banner = await generateTextBanner({ tracks: tracks.toptracks.track, period: '7day', style: 'experimental' });
 		console.log(banner);
 	});
 
