@@ -29,7 +29,7 @@ export async function getTopTracks(request: GetTopTracksRequest): Promise<GetTop
 }
 
 
-type Period = 'overall' | '7day' | '1month' | '3month' | '6month' | '12month';
+export type Period = 'overall' | '7day' | '1month' | '3month' | '6month' | '12month';
 
 const ImageSchema = z.object({
 	'#text': z.string().url(),
