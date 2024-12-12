@@ -1,0 +1,213 @@
+{
+	"topartists": {
+		"artist": [
+			{
+				"name": "Paramore",
+				"url": "https://www.last.fm/music/Paramore"
+			},
+			{
+				"name": "Taylor Swift",
+				"url": "https://www.last.fm/music/Taylor+Swift"
+			},
+			{
+				"name": "Olivia Rodrigo",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo"
+			},
+			{
+				"name": "Sabrina Carpenter",
+				"url": "https://www.last.fm/music/Sabrina+Carpenter"
+			},
+			{
+				"name": "Linkin Park",
+				"url": "https://www.last.fm/music/Linkin+Park"
+			},
+			{
+				"name": "Chappell Roan",
+				"url": "https://www.last.fm/music/Chappell+Roan"
+			},
+			{
+				"name": "Panic! at the Disco",
+				"url": "https://www.last.fm/music/Panic!+at+the+Disco"
+			},
+			{
+				"name": "Fall Out Boy",
+				"url": "https://www.last.fm/music/Fall+Out+Boy"
+			},
+			{
+				"name": "Avril Lavigne",
+				"url": "https://www.last.fm/music/Avril+Lavigne"
+			},
+			{
+				"name": "Ariana Grande",
+				"url": "https://www.last.fm/music/Ariana+Grande"
+			},
+			{
+				"name": "My Chemical Romance",
+				"url": "https://www.last.fm/music/My+Chemical+Romance"
+			},
+			{
+				"name": "Dua Lipa",
+				"url": "https://www.last.fm/music/Dua+Lipa"
+			},
+			{
+				"name": "Lana Del Rey",
+				"url": "https://www.last.fm/music/Lana+Del+Rey"
+			},
+			{
+				"name": "Lorde",
+				"url": "https://www.last.fm/music/Lorde"
+			},
+			{
+				"name": "Tonight Alive",
+				"url": "https://www.last.fm/music/Tonight+Alive"
+			},
+			{
+				"name": "Florence + the Machine",
+				"url": "https://www.last.fm/music/Florence+%252B+the+Machine"
+			},
+			{
+				"name": "Miley Cyrus",
+				"url": "https://www.last.fm/music/Miley+Cyrus"
+			},
+			{
+				"name": "Sleeping With Sirens",
+				"url": "https://www.last.fm/music/Sleeping+With+Sirens"
+			},
+			{
+				"name": "Halsey",
+				"url": "https://www.last.fm/music/Halsey"
+			},
+			{
+				"name": "Hayley Williams",
+				"url": "https://www.last.fm/music/Hayley+Williams"
+			},
+			{
+				"name": "Katy Perry",
+				"url": "https://www.last.fm/music/Katy+Perry"
+			},
+			{
+				"name": "The All-American Rejects",
+				"url": "https://www.last.fm/music/The+All-American+Rejects"
+			},
+			{
+				"name": "Beach Bunny",
+				"url": "https://www.last.fm/music/Beach+Bunny"
+			},
+			{
+				"name": "Billie Eilish",
+				"url": "https://www.last.fm/music/Billie+Eilish"
+			},
+			{
+				"name": "Conan Gray",
+				"url": "https://www.last.fm/music/Conan+Gray"
+			},
+			{
+				"name": "Marina",
+				"url": "https://www.last.fm/music/Marina"
+			},
+			{
+				"name": "All Time Low",
+				"url": "https://www.last.fm/music/All+Time+Low"
+			},
+			{
+				"name": "Demi Lovato",
+				"url": "https://www.last.fm/music/Demi+Lovato"
+			},
+			{
+				"name": "Flyleaf",
+				"url": "https://www.last.fm/music/Flyleaf"
+			},
+			{
+				"name": "Green Day",
+				"url": "https://www.last.fm/music/Green+Day"
+			},
+			{
+				"name": "Sum 41",
+				"url": "https://www.last.fm/music/Sum+41"
+			},
+			{
+				"name": "Tate McRae",
+				"url": "https://www.last.fm/music/Tate+McRae"
+			},
+			{
+				"name": "Carly Rae Jepsen",
+				"url": "https://www.last.fm/music/Carly+Rae+Jepsen"
+			},
+			{
+				"name": "Ed Sheeran",
+				"url": "https://www.last.fm/music/Ed+Sheeran"
+			},
+			{
+				"name": "Ellie Goulding",
+				"url": "https://www.last.fm/music/Ellie+Goulding"
+			},
+			{
+				"name": "Gracie Abrams",
+				"url": "https://www.last.fm/music/Gracie+Abrams"
+			},
+			{
+				"name": "Marina & the Diamonds",
+				"url": "https://www.last.fm/music/Marina+&+the+Diamonds"
+			},
+			{
+				"name": "PVRIS",
+				"url": "https://www.last.fm/music/PVRIS"
+			},
+			{
+				"name": "System of a Down",
+				"url": "https://www.last.fm/music/System+of+a+Down"
+			},
+			{
+				"name": "The Used",
+				"url": "https://www.last.fm/music/The+Used"
+			},
+			{
+				"name": "30 Seconds to Mars",
+				"url": "https://www.last.fm/music/30+Seconds+to+Mars"
+			},
+			{
+				"name": "Adele",
+				"url": "https://www.last.fm/music/Adele"
+			},
+			{
+				"name": "Arctic Monkeys",
+				"url": "https://www.last.fm/music/Arctic+Monkeys"
+			},
+			{
+				"name": "Bring Me the Horizon",
+				"url": "https://www.last.fm/music/Bring+Me+the+Horizon"
+			},
+			{
+				"name": "Drake",
+				"url": "https://www.last.fm/music/Drake"
+			},
+			{
+				"name": "Falling in Reverse",
+				"url": "https://www.last.fm/music/Falling+in+Reverse"
+			},
+			{
+				"name": "Good Charlotte",
+				"url": "https://www.last.fm/music/Good+Charlotte"
+			},
+			{
+				"name": "Harry Styles",
+				"url": "https://www.last.fm/music/Harry+Styles"
+			},
+			{
+				"name": "Kygo",
+				"url": "https://www.last.fm/music/Kygo"
+			},
+			{
+				"name": "Lady Gaga",
+				"url": "https://www.last.fm/music/Lady+Gaga"
+			}
+		],
+		"@attr": {
+			"user": "alator21",
+			"totalPages": 3,
+			"page": 1,
+			"perPage": 50,
+			"total": 116
+		}
+	}
+}
