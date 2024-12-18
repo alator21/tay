@@ -13,4 +13,12 @@ describe("getTopTracks", () => {
 		});
 	});
 
+	test.skip('Saves result to file', async () => {
+		const tracks = await getTopTracks({
+			user: 'alator21'
+		});
+
+		await Bun.write('src/test-data/user/getTopTracks.json', JSON.stringify(tracks));
+	});
+
 });
