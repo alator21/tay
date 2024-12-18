@@ -6,6 +6,8 @@
   },
   "type": "module",
   "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "musicbrainz-api": "^0.19.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
