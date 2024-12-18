@@ -39,6 +39,7 @@ const ImageSchema = z.object({
 const ArtistSchema = z.object({
 	name: z.string(),
 	url: z.string().url(),
+	mbid: z.string()
 });
 const TrackSchema = z.object({
 	name: z.string(),

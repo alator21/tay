@@ -2,14 +2,15 @@
 	"toptracks": {
 		"track": [
 			{
-				"name": "Pink Pony Club",
-				"playcount": 2,
-				"mbid": "82c76581-30d9-46a8-829d-67de13a5dd34",
-				"url": "https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club",
-				"duration": 270,
+				"name": "Please Please Please",
+				"playcount": 14,
+				"mbid": "af731d7b-374b-4034-8ced-8ee296627abf",
+				"url": "https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please",
+				"duration": 186,
 				"artist": {
-					"name": "Chappell Roan",
-					"url": "https://www.last.fm/music/Chappell+Roan"
+					"name": "Sabrina Carpenter",
+					"url": "https://www.last.fm/music/Sabrina+Carpenter",
+					"mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4"
 				},
 				"image": [
 					{
@@ -38,14 +39,15 @@
 				}
 			},
 			{
-				"name": "The Emptiness Machine",
-				"playcount": 2,
-				"mbid": "0815f294-becd-4544-bad0-5d43b7426cce",
-				"url": "https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine",
-				"duration": 190,
+				"name": "Espresso",
+				"playcount": 12,
+				"mbid": "830baba2-78ff-4687-b0d7-b42de3817ebf",
+				"url": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso",
+				"duration": 175,
 				"artist": {
-					"name": "Linkin Park",
-					"url": "https://www.last.fm/music/Linkin+Park"
+					"name": "Sabrina Carpenter",
+					"url": "https://www.last.fm/music/Sabrina+Carpenter",
+					"mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4"
 				},
 				"image": [
 					{
@@ -75,13 +77,14 @@
 			},
 			{
 				"name": "all-american bitch",
-				"playcount": 2,
+				"playcount": 11,
 				"mbid": "7a759bac-cff3-405d-8ce2-45986213401b",
 				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/all-american+bitch",
-				"duration": 165,
+				"duration": 166,
 				"artist": {
 					"name": "Olivia Rodrigo",
-					"url": "https://www.last.fm/music/Olivia+Rodrigo"
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -110,14 +113,15 @@
 				}
 			},
 			{
-				"name": "If You Can't Hang",
-				"playcount": 2,
-				"mbid": "6e4867d9-342b-43c1-a881-26b12fddf10b",
-				"url": "https://www.last.fm/music/Sleeping+with+Sirens/_/If+You+Can%27t+Hang",
-				"duration": 367,
+				"name": "The Emptiness Machine",
+				"playcount": 10,
+				"mbid": "0815f294-becd-4544-bad0-5d43b7426cce",
+				"url": "https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine",
+				"duration": 190,
 				"artist": {
-					"name": "Sleeping with Sirens",
-					"url": "https://www.last.fm/music/Sleeping+with+Sirens"
+					"name": "Linkin Park",
+					"url": "https://www.last.fm/music/Linkin+Park",
+					"mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
 				},
 				"image": [
 					{
@@ -146,14 +150,15 @@
 				}
 			},
 			{
-				"name": "gold rush",
-				"playcount": 2,
-				"mbid": "12752508-838e-41fb-8d9b-728d80464402",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/gold+rush",
-				"duration": 185,
+				"name": "Pink Pony Club",
+				"playcount": 6,
+				"mbid": "82c76581-30d9-46a8-829d-67de13a5dd34",
+				"url": "https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club",
+				"duration": 270,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Chappell Roan",
+					"url": "https://www.last.fm/music/Chappell+Roan",
+					"mbid": "56a55378-f155-48de-80a5-d80104221267"
 				},
 				"image": [
 					{
@@ -182,14 +187,15 @@
 				}
 			},
 			{
-				"name": "pov",
-				"playcount": 1,
-				"mbid": "720b5cba-d21f-40ab-9a66-d8e9bbf0b1c0",
-				"url": "https://www.last.fm/music/Ariana+Grande/_/pov",
-				"duration": 138,
+				"name": "Pool",
+				"playcount": 6,
+				"mbid": "16037b88-d3a4-42f0-b238-b99baaf958d8",
+				"url": "https://www.last.fm/music/Paramore/_/Pool",
+				"duration": 233,
 				"artist": {
-					"name": "Ariana Grande",
-					"url": "https://www.last.fm/music/Ariana+Grande"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -218,14 +224,15 @@
 				}
 			},
 			{
-				"name": "Oxygen",
-				"playcount": 1,
-				"mbid": "f5de3e1f-be35-48f8-aff3-6c2fbc131709",
-				"url": "https://www.last.fm/music/Beach+Bunny/_/Oxygen",
-				"duration": 190,
+				"name": "Breaking & Entering",
+				"playcount": 6,
+				"mbid": "e833743f-6bd4-43ad-8963-fa2f7a3cd7d9",
+				"url": "https://www.last.fm/music/Tonight+Alive/_/Breaking+&+Entering",
+				"duration": 212,
 				"artist": {
-					"name": "Beach Bunny",
-					"url": "https://www.last.fm/music/Beach+Bunny"
+					"name": "Tonight Alive",
+					"url": "https://www.last.fm/music/Tonight+Alive",
+					"mbid": "712dbd18-d8fd-4bd0-a5b5-edb9577c493f"
 				},
 				"image": [
 					{
@@ -254,14 +261,15 @@
 				}
 			},
 			{
-				"name": "Naked in Manhattan",
-				"playcount": 1,
-				"mbid": "5372a62a-012f-47d2-b663-ebfb3bd76c56",
-				"url": "https://www.last.fm/music/Chappell+Roan/_/Naked+in+Manhattan",
-				"duration": 316,
+				"name": "Oxygen",
+				"playcount": 5,
+				"mbid": "f5de3e1f-be35-48f8-aff3-6c2fbc131709",
+				"url": "https://www.last.fm/music/Beach+Bunny/_/Oxygen",
+				"duration": 190,
 				"artist": {
-					"name": "Chappell Roan",
-					"url": "https://www.last.fm/music/Chappell+Roan"
+					"name": "Beach Bunny",
+					"url": "https://www.last.fm/music/Beach+Bunny",
+					"mbid": "bdb2e504-7372-4f5b-a6c7-d578021c53b5"
 				},
 				"image": [
 					{
@@ -290,14 +298,15 @@
 				}
 			},
 			{
-				"name": "Heather",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Conan+Gray/_/Heather",
-				"duration": 198,
+				"name": "Red Wine Supernova",
+				"playcount": 5,
+				"mbid": "199994ba-4ca2-49b4-bd06-be7fe384cab0",
+				"url": "https://www.last.fm/music/Chappell+Roan/_/Red+Wine+Supernova",
+				"duration": 192,
 				"artist": {
-					"name": "Conan Gray",
-					"url": "https://www.last.fm/music/Conan+Gray"
+					"name": "Chappell Roan",
+					"url": "https://www.last.fm/music/Chappell+Roan",
+					"mbid": "56a55378-f155-48de-80a5-d80104221267"
 				},
 				"image": [
 					{
@@ -326,14 +335,15 @@
 				}
 			},
 			{
-				"name": "La La Land",
-				"playcount": 1,
-				"mbid": "81c4c7dc-17da-4c09-876b-056811f4c927",
-				"url": "https://www.last.fm/music/Demi+Lovato/_/La+La+Land",
-				"duration": 196,
+				"name": "I Caught Myself",
+				"playcount": 5,
+				"mbid": "491736ac-718d-4cd3-9b3b-99cc1106f56d",
+				"url": "https://www.last.fm/music/Paramore/_/I+Caught+Myself",
+				"duration": 235,
 				"artist": {
-					"name": "Demi Lovato",
-					"url": "https://www.last.fm/music/Demi+Lovato"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -362,14 +372,15 @@
 				}
 			},
 			{
-				"name": "Houdini",
-				"playcount": 1,
-				"mbid": "0590cef3-2f3e-41a5-bfe8-a72fdd171695",
-				"url": "https://www.last.fm/music/Dua+Lipa/_/Houdini",
-				"duration": 185,
+				"name": "I Can Do It with a Broken Heart",
+				"playcount": 5,
+				"mbid": "421f3ad9-5b67-4b0d-84c3-0b8a59641d55",
+				"url": "https://www.last.fm/music/Taylor+Swift/_/I+Can+Do+It+with+a+Broken+Heart",
+				"duration": 218,
 				"artist": {
-					"name": "Dua Lipa",
-					"url": "https://www.last.fm/music/Dua+Lipa"
+					"name": "Taylor Swift",
+					"url": "https://www.last.fm/music/Taylor+Swift",
+					"mbid": "20244d07-534f-4eff-b4d4-930878889970"
 				},
 				"image": [
 					{
@@ -398,14 +409,15 @@
 				}
 			},
 			{
-				"name": "Lights",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Ellie+Goulding/_/Lights",
-				"duration": 211,
+				"name": "Vigilante Shit",
+				"playcount": 5,
+				"mbid": "fd016080-777e-4b39-acf4-cc31a6491888",
+				"url": "https://www.last.fm/music/Taylor+Swift/_/Vigilante+Shit",
+				"duration": 172,
 				"artist": {
-					"name": "Ellie Goulding",
-					"url": "https://www.last.fm/music/Ellie+Goulding"
+					"name": "Taylor Swift",
+					"url": "https://www.last.fm/music/Taylor+Swift",
+					"mbid": "20244d07-534f-4eff-b4d4-930878889970"
 				},
 				"image": [
 					{
@@ -434,14 +446,15 @@
 				}
 			},
 			{
-				"name": "Dance, Dance",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Fall+Out+Boy/_/Dance,+Dance",
-				"duration": 180,
+				"name": "Naked in Manhattan",
+				"playcount": 4,
+				"mbid": "5372a62a-012f-47d2-b663-ebfb3bd76c56",
+				"url": "https://www.last.fm/music/Chappell+Roan/_/Naked+in+Manhattan",
+				"duration": 316,
 				"artist": {
-					"name": "Fall Out Boy",
-					"url": "https://www.last.fm/music/Fall+Out+Boy"
+					"name": "Chappell Roan",
+					"url": "https://www.last.fm/music/Chappell+Roan",
+					"mbid": "56a55378-f155-48de-80a5-d80104221267"
 				},
 				"image": [
 					{
@@ -470,14 +483,15 @@
 				}
 			},
 			{
-				"name": "Sugar, We're Goin Down",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Fall+Out+Boy/_/Sugar,+We%27re+Goin+Down",
-				"duration": 229,
+				"name": "ballad of a homeschooled girl",
+				"playcount": 4,
+				"mbid": "628cfbd1-1497-4e1c-abce-861d61884066",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/ballad+of+a+homeschooled+girl",
+				"duration": 203,
 				"artist": {
-					"name": "Fall Out Boy",
-					"url": "https://www.last.fm/music/Fall+Out+Boy"
+					"name": "Olivia Rodrigo",
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -506,14 +520,15 @@
 				}
 			},
 			{
-				"name": "My Love",
-				"playcount": 1,
-				"mbid": "bff6fbb5-5b66-4316-a392-335aeb989a74",
-				"url": "https://www.last.fm/music/Florence+%252B+the+Machine/_/My+Love",
-				"duration": 292,
+				"name": "pretty isn’t pretty",
+				"playcount": 4,
+				"mbid": "",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/pretty+isn%E2%80%99t+pretty",
+				"duration": 199,
 				"artist": {
-					"name": "Florence + the Machine",
-					"url": "https://www.last.fm/music/Florence+%252B+the+Machine"
+					"name": "Olivia Rodrigo",
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -542,14 +557,15 @@
 				}
 			},
 			{
-				"name": "Shake It Out",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Florence+%252B+the+Machine/_/Shake+It+Out",
-				"duration": 277,
+				"name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+				"playcount": 4,
+				"mbid": "3e4d1d4e-b0d5-4a56-ac2c-88ed707c4752",
+				"url": "https://www.last.fm/music/Panic!+at+the+Disco/_/The+Only+Difference+Between+Martyrdom+and+Suicide+Is+Press+Coverage",
+				"duration": 175,
 				"artist": {
-					"name": "Florence + the Machine",
-					"url": "https://www.last.fm/music/Florence+%252B+the+Machine"
+					"name": "Panic! at the Disco",
+					"url": "https://www.last.fm/music/Panic!+at+the+Disco",
+					"mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8"
 				},
 				"image": [
 					{
@@ -578,14 +594,15 @@
 				}
 			},
 			{
-				"name": "All Around Me",
-				"playcount": 1,
-				"mbid": "1ba2e981-ae70-3320-b67a-f35907c8dbb0",
-				"url": "https://www.last.fm/music/Flyleaf/_/All+Around+Me",
-				"duration": 198,
+				"name": "crushcrushcrush",
+				"playcount": 4,
+				"mbid": "100a7ad4-3e12-3242-9351-93a53c925035",
+				"url": "https://www.last.fm/music/Paramore/_/crushcrushcrush",
+				"duration": 183,
 				"artist": {
-					"name": "Flyleaf",
-					"url": "https://www.last.fm/music/Flyleaf"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -614,14 +631,15 @@
 				}
 			},
 			{
-				"name": "Colors",
-				"playcount": 1,
-				"mbid": "b050bb6e-44c7-4226-bb4e-9957a4619c9e",
-				"url": "https://www.last.fm/music/Halsey/_/Colors",
-				"duration": 0,
+				"name": "If You Can't Hang",
+				"playcount": 4,
+				"mbid": "6e4867d9-342b-43c1-a881-26b12fddf10b",
+				"url": "https://www.last.fm/music/Sleeping+with+Sirens/_/If+You+Can%27t+Hang",
+				"duration": 367,
 				"artist": {
-					"name": "Halsey",
-					"url": "https://www.last.fm/music/Halsey"
+					"name": "Sleeping with Sirens",
+					"url": "https://www.last.fm/music/Sleeping+with+Sirens",
+					"mbid": ""
 				},
 				"image": [
 					{
@@ -650,14 +668,15 @@
 				}
 			},
 			{
-				"name": "Lonely Is The Muse",
-				"playcount": 1,
-				"mbid": "a561aca1-3dff-4fc4-a8cf-2b4d685d173f",
-				"url": "https://www.last.fm/music/Halsey/_/Lonely+Is+The+Muse",
-				"duration": 240,
+				"name": "gold rush",
+				"playcount": 4,
+				"mbid": "12752508-838e-41fb-8d9b-728d80464402",
+				"url": "https://www.last.fm/music/Taylor+Swift/_/gold+rush",
+				"duration": 185,
 				"artist": {
-					"name": "Halsey",
-					"url": "https://www.last.fm/music/Halsey"
+					"name": "Taylor Swift",
+					"url": "https://www.last.fm/music/Taylor+Swift",
+					"mbid": "20244d07-534f-4eff-b4d4-930878889970"
 				},
 				"image": [
 					{
@@ -686,14 +705,15 @@
 				}
 			},
 			{
-				"name": "Leave It Alone",
-				"playcount": 1,
-				"mbid": "a15533ec-d123-4c12-b0aa-dbcbc3628032",
-				"url": "https://www.last.fm/music/Hayley+Williams/_/Leave+It+Alone",
-				"duration": 245,
+				"name": "Innocence",
+				"playcount": 3,
+				"mbid": "1967fb5c-d062-31f3-ab50-4def67853ba2",
+				"url": "https://www.last.fm/music/Avril+Lavigne/_/Innocence",
+				"duration": 233,
 				"artist": {
-					"name": "Hayley Williams",
-					"url": "https://www.last.fm/music/Hayley+Williams"
+					"name": "Avril Lavigne",
+					"url": "https://www.last.fm/music/Avril+Lavigne",
+					"mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193"
 				},
 				"image": [
 					{
@@ -722,14 +742,15 @@
 				}
 			},
 			{
-				"name": "Over Yet",
-				"playcount": 1,
-				"mbid": "1181ea1e-70ae-4308-b200-a1f9a5a32c90",
-				"url": "https://www.last.fm/music/Hayley+Williams/_/Over+Yet",
-				"duration": 214,
+				"name": "Training Season",
+				"playcount": 3,
+				"mbid": "ccaa5327-9fa6-46db-975e-af60c026ef30",
+				"url": "https://www.last.fm/music/Dua+Lipa/_/Training+Season",
+				"duration": 220,
 				"artist": {
-					"name": "Hayley Williams",
-					"url": "https://www.last.fm/music/Hayley+Williams"
+					"name": "Dua Lipa",
+					"url": "https://www.last.fm/music/Dua+Lipa",
+					"mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
 				},
 				"image": [
 					{
@@ -758,14 +779,15 @@
 				}
 			},
 			{
-				"name": "Hot n Cold",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Katy+Perry/_/Hot+n+Cold",
-				"duration": 232,
+				"name": "My Love",
+				"playcount": 3,
+				"mbid": "bff6fbb5-5b66-4316-a392-335aeb989a74",
+				"url": "https://www.last.fm/music/Florence+%252B+the+Machine/_/My+Love",
+				"duration": 292,
 				"artist": {
-					"name": "Katy Perry",
-					"url": "https://www.last.fm/music/Katy+Perry"
+					"name": "Florence + the Machine",
+					"url": "https://www.last.fm/music/Florence+%252B+the+Machine",
+					"mbid": "5fee3020-513b-48c2-b1f7-4681b01db0c6"
 				},
 				"image": [
 					{
@@ -794,14 +816,15 @@
 				}
 			},
 			{
-				"name": "Die with a Smile",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Lady+Gaga/_/Die+with+a+Smile",
-				"duration": 251,
+				"name": "Colors",
+				"playcount": 3,
+				"mbid": "b050bb6e-44c7-4226-bb4e-9957a4619c9e",
+				"url": "https://www.last.fm/music/Halsey/_/Colors",
+				"duration": 0,
 				"artist": {
-					"name": "Lady Gaga",
-					"url": "https://www.last.fm/music/Lady+Gaga"
+					"name": "Halsey",
+					"url": "https://www.last.fm/music/Halsey",
+					"mbid": "3377f3bb-60fc-4403-aea9-7e800612e060"
 				},
 				"image": [
 					{
@@ -830,14 +853,15 @@
 				}
 			},
 			{
-				"name": "National Anthem",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Lana+Del+Rey/_/National+Anthem",
-				"duration": 230,
+				"name": "Papercut",
+				"playcount": 3,
+				"mbid": "6193b553-c2bf-410d-9bfc-d950681510ea",
+				"url": "https://www.last.fm/music/Linkin+Park/_/Papercut",
+				"duration": 305,
 				"artist": {
-					"name": "Lana Del Rey",
-					"url": "https://www.last.fm/music/Lana+Del+Rey"
+					"name": "Linkin Park",
+					"url": "https://www.last.fm/music/Linkin+Park",
+					"mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
 				},
 				"image": [
 					{
@@ -866,14 +890,15 @@
 				}
 			},
 			{
-				"name": "Radio",
-				"playcount": 1,
-				"mbid": "9333f066-d2a0-4661-bf34-5dd4263851f3",
-				"url": "https://www.last.fm/music/Lana+Del+Rey/_/Radio",
-				"duration": 214,
+				"name": "Perfect Places",
+				"playcount": 3,
+				"mbid": "0420a745-46fe-4dc3-a877-f96ee1912d69",
+				"url": "https://www.last.fm/music/Lorde/_/Perfect+Places",
+				"duration": 212,
 				"artist": {
-					"name": "Lana Del Rey",
-					"url": "https://www.last.fm/music/Lana+Del+Rey"
+					"name": "Lorde",
+					"url": "https://www.last.fm/music/Lorde",
+					"mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12"
 				},
 				"image": [
 					{
@@ -902,14 +927,15 @@
 				}
 			},
 			{
-				"name": "Homemade Dynamite",
-				"playcount": 1,
-				"mbid": "d1178dfe-1c46-4199-9899-b65627ef6cc1",
-				"url": "https://www.last.fm/music/Lorde/_/Homemade+Dynamite",
-				"duration": 189,
+				"name": "The Family Jewels",
+				"playcount": 3,
+				"mbid": "0790641c-4203-4309-b9f8-6742a13c74e7",
+				"url": "https://www.last.fm/music/Marina+&+the+Diamonds/_/The+Family+Jewels",
+				"duration": 245,
 				"artist": {
-					"name": "Lorde",
-					"url": "https://www.last.fm/music/Lorde"
+					"name": "Marina & the Diamonds",
+					"url": "https://www.last.fm/music/Marina+&+the+Diamonds",
+					"mbid": ""
 				},
 				"image": [
 					{
@@ -938,14 +964,15 @@
 				}
 			},
 			{
-				"name": "Party in the U.S.A.",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.",
-				"duration": 203,
+				"name": "The Ghost of You",
+				"playcount": 3,
+				"mbid": "03979405-3343-4c72-b8a4-23c6c38e6a55",
+				"url": "https://www.last.fm/music/My+Chemical+Romance/_/The+Ghost+of+You",
+				"duration": 204,
 				"artist": {
-					"name": "Miley Cyrus",
-					"url": "https://www.last.fm/music/Miley+Cyrus"
+					"name": "My Chemical Romance",
+					"url": "https://www.last.fm/music/My+Chemical+Romance",
+					"mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13"
 				},
 				"image": [
 					{
@@ -974,14 +1001,15 @@
 				}
 			},
 			{
-				"name": "Famous Last Words",
-				"playcount": 1,
-				"mbid": "028e903f-1828-4226-8d7d-97bc57fd2ee6",
-				"url": "https://www.last.fm/music/My+Chemical+Romance/_/Famous+Last+Words",
-				"duration": 299,
+				"name": "bad idea right?",
+				"playcount": 3,
+				"mbid": "c996fcfe-1722-4961-a758-03d5fec0114b",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/bad+idea+right%3F",
+				"duration": 185,
 				"artist": {
-					"name": "My Chemical Romance",
-					"url": "https://www.last.fm/music/My+Chemical+Romance"
+					"name": "Olivia Rodrigo",
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -1010,14 +1038,15 @@
 				}
 			},
 			{
-				"name": "obsessed",
-				"playcount": 1,
-				"mbid": "02251981-33fa-4249-9724-2a87293586c4",
-				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/obsessed",
-				"duration": 165,
+				"name": "Can’t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+				"playcount": 3,
+				"mbid": "",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/Can%E2%80%99t+Catch+Me+Now+(from+The+Hunger+Games:+The+Ballad+of+Songbirds+&+Snakes)",
+				"duration": 205,
 				"artist": {
 					"name": "Olivia Rodrigo",
-					"url": "https://www.last.fm/music/Olivia+Rodrigo"
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -1046,14 +1075,15 @@
 				}
 			},
 			{
-				"name": "vampire",
-				"playcount": 1,
-				"mbid": "b587de1a-453a-4fb8-9daf-aa8ebb505c7b",
-				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/vampire",
-				"duration": 219,
+				"name": "teenage dream",
+				"playcount": 3,
+				"mbid": "860cbc06-026c-4b0a-bef7-ce3856ffb381",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/teenage+dream",
+				"duration": 222,
 				"artist": {
 					"name": "Olivia Rodrigo",
-					"url": "https://www.last.fm/music/Olivia+Rodrigo"
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -1082,14 +1112,15 @@
 				}
 			},
 			{
-				"name": "Build God, Then We'll Talk",
-				"playcount": 1,
-				"mbid": "131dd960-8c85-4bb8-8066-e93a09b75e3c",
-				"url": "https://www.last.fm/music/Panic!+at+the+Disco/_/Build+God,+Then+We%27ll+Talk",
-				"duration": 219,
+				"name": "vampire",
+				"playcount": 3,
+				"mbid": "b587de1a-453a-4fb8-9daf-aa8ebb505c7b",
+				"url": "https://www.last.fm/music/Olivia+Rodrigo/_/vampire",
+				"duration": 220,
 				"artist": {
-					"name": "Panic! at the Disco",
-					"url": "https://www.last.fm/music/Panic!+at+the+Disco"
+					"name": "Olivia Rodrigo",
+					"url": "https://www.last.fm/music/Olivia+Rodrigo",
+					"mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
 				},
 				"image": [
 					{
@@ -1118,14 +1149,15 @@
 				}
 			},
 			{
-				"name": "Hurricane",
-				"playcount": 1,
-				"mbid": "018f3868-f2cf-3be4-926e-9bb73529d39a",
-				"url": "https://www.last.fm/music/Panic!+at+the+Disco/_/Hurricane",
-				"duration": 0,
+				"name": "Build God, Then We'll Talk",
+				"playcount": 3,
+				"mbid": "131dd960-8c85-4bb8-8066-e93a09b75e3c",
+				"url": "https://www.last.fm/music/Panic!+at+the+Disco/_/Build+God,+Then+We%27ll+Talk",
+				"duration": 219,
 				"artist": {
 					"name": "Panic! at the Disco",
-					"url": "https://www.last.fm/music/Panic!+at+the+Disco"
+					"url": "https://www.last.fm/music/Panic!+at+the+Disco",
+					"mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8"
 				},
 				"image": [
 					{
@@ -1154,14 +1186,15 @@
 				}
 			},
 			{
-				"name": "Born for This",
-				"playcount": 1,
-				"mbid": "0b2aa82e-b04b-44c6-87b6-816860387a30",
-				"url": "https://www.last.fm/music/Paramore/_/Born+for+This",
-				"duration": 236,
+				"name": "Hurricane",
+				"playcount": 3,
+				"mbid": "018f3868-f2cf-3be4-926e-9bb73529d39a",
+				"url": "https://www.last.fm/music/Panic!+at+the+Disco/_/Hurricane",
+				"duration": 0,
 				"artist": {
-					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"name": "Panic! at the Disco",
+					"url": "https://www.last.fm/music/Panic!+at+the+Disco",
+					"mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8"
 				},
 				"image": [
 					{
@@ -1190,14 +1223,15 @@
 				}
 			},
 			{
-				"name": "I Caught Myself",
-				"playcount": 1,
-				"mbid": "08066244-0980-307a-9a2b-4d51946a4b92",
-				"url": "https://www.last.fm/music/Paramore/_/I+Caught+Myself",
-				"duration": 235,
+				"name": "Born for This",
+				"playcount": 3,
+				"mbid": "0b2aa82e-b04b-44c6-87b6-816860387a30",
+				"url": "https://www.last.fm/music/Paramore/_/Born+for+This",
+				"duration": 236,
 				"artist": {
 					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1226,14 +1260,15 @@
 				}
 			},
 			{
-				"name": "Let the Flames Begin",
-				"playcount": 1,
-				"mbid": "0d000c96-ce84-34e5-a58c-447e45f92069",
-				"url": "https://www.last.fm/music/Paramore/_/Let+the+Flames+Begin",
+				"name": "Fences",
+				"playcount": 3,
+				"mbid": "00321820-f015-4552-9b92-780b0321bede",
+				"url": "https://www.last.fm/music/Paramore/_/Fences",
 				"duration": 0,
 				"artist": {
 					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1262,14 +1297,15 @@
 				}
 			},
 			{
-				"name": "Native Tongue",
-				"playcount": 1,
-				"mbid": "2ce2f342-bf84-4b99-8728-13eb2aa221ca",
-				"url": "https://www.last.fm/music/Paramore/_/Native+Tongue",
-				"duration": 192,
+				"name": "For a Pessimist, I'm Pretty Optimistic",
+				"playcount": 3,
+				"mbid": "14f9b547-d681-3378-8948-0c7b45e54c8d",
+				"url": "https://www.last.fm/music/Paramore/_/For+a+Pessimist,+I%27m+Pretty+Optimistic",
+				"duration": 0,
 				"artist": {
 					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1298,14 +1334,15 @@
 				}
 			},
 			{
-				"name": "Proof",
-				"playcount": 1,
-				"mbid": "025dd222-0833-35b2-839e-0711ef030382",
-				"url": "https://www.last.fm/music/Paramore/_/Proof",
-				"duration": 195,
+				"name": "Grudges",
+				"playcount": 3,
+				"mbid": "07544aa8-665a-431a-bf1d-eb0325c228b5",
+				"url": "https://www.last.fm/music/Paramore/_/Grudges",
+				"duration": 187,
 				"artist": {
 					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1334,14 +1371,15 @@
 				}
 			},
 			{
-				"name": "When It Rains",
-				"playcount": 1,
-				"mbid": "02c7a889-5641-37cc-b9b2-d6de6b26fed6",
-				"url": "https://www.last.fm/music/Paramore/_/When+It+Rains",
+				"name": "Hello Cold World",
+				"playcount": 3,
+				"mbid": "02c883fc-9357-4abd-a7b3-b24a272cd892",
+				"url": "https://www.last.fm/music/Paramore/_/Hello+Cold+World",
 				"duration": 0,
 				"artist": {
 					"name": "Paramore",
-					"url": "https://www.last.fm/music/Paramore"
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1370,14 +1408,15 @@
 				}
 			},
 			{
-				"name": "Feather",
-				"playcount": 1,
-				"mbid": "a4aa827d-2fea-4725-ace3-c1b68c8f9cdf",
-				"url": "https://www.last.fm/music/Sabrina+Carpenter/_/Feather",
-				"duration": 185,
+				"name": "Let the Flames Begin",
+				"playcount": 3,
+				"mbid": "0d000c96-ce84-34e5-a58c-447e45f92069",
+				"url": "https://www.last.fm/music/Paramore/_/Let+the+Flames+Begin",
+				"duration": 0,
 				"artist": {
-					"name": "Sabrina Carpenter",
-					"url": "https://www.last.fm/music/Sabrina+Carpenter"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1406,14 +1445,15 @@
 				}
 			},
 			{
-				"name": "Bad Liar",
-				"playcount": 1,
-				"mbid": "bf918636-d49c-4672-b242-7bf367ba13a7",
-				"url": "https://www.last.fm/music/Selena+Gomez/_/Bad+Liar",
-				"duration": 214,
+				"name": "Playing God",
+				"playcount": 3,
+				"mbid": "12b045c0-456c-3a75-bdf4-ce3bb8cb0734",
+				"url": "https://www.last.fm/music/Paramore/_/Playing+God",
+				"duration": 184,
 				"artist": {
-					"name": "Selena Gomez",
-					"url": "https://www.last.fm/music/Selena+Gomez"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1442,14 +1482,15 @@
 				}
 			},
 			{
-				"name": "she's all i wanna be",
-				"playcount": 1,
-				"mbid": "e860b334-5c4e-4b41-a558-5a7f1bc0c017",
-				"url": "https://www.last.fm/music/Tate+McRae/_/she%27s+all+i+wanna+be",
-				"duration": 206,
+				"name": "That's What You Get",
+				"playcount": 3,
+				"mbid": "053f6db6-3ec1-4de7-94fc-2a25afe53fc9",
+				"url": "https://www.last.fm/music/Paramore/_/That%27s+What+You+Get",
+				"duration": 220,
 				"artist": {
-					"name": "Tate McRae",
-					"url": "https://www.last.fm/music/Tate+McRae"
+					"name": "Paramore",
+					"url": "https://www.last.fm/music/Paramore",
+					"mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
 				},
 				"image": [
 					{
@@ -1478,14 +1519,15 @@
 				}
 			},
 			{
-				"name": "How You Get the Girl (Taylor's Version)",
-				"playcount": 1,
-				"mbid": "470c7c78-32a3-4ddc-9311-14ff10f84366",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/How+You+Get+the+Girl+(Taylor%27s+Version)",
-				"duration": 247,
+				"name": "Feather",
+				"playcount": 3,
+				"mbid": "a4aa827d-2fea-4725-ace3-c1b68c8f9cdf",
+				"url": "https://www.last.fm/music/Sabrina+Carpenter/_/Feather",
+				"duration": 185,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Sabrina Carpenter",
+					"url": "https://www.last.fm/music/Sabrina+Carpenter",
+					"mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4"
 				},
 				"image": [
 					{
@@ -1514,14 +1556,15 @@
 				}
 			},
 			{
-				"name": "I Can Do It with a Broken Heart",
-				"playcount": 1,
-				"mbid": "421f3ad9-5b67-4b0d-84c3-0b8a59641d55",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/I+Can+Do+It+with+a+Broken+Heart",
-				"duration": 218,
+				"name": "In Too Deep",
+				"playcount": 3,
+				"mbid": "",
+				"url": "https://www.last.fm/music/Sum+41/_/In+Too+Deep",
+				"duration": 212,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Sum 41",
+					"url": "https://www.last.fm/music/Sum+41",
+					"mbid": "f2eef649-a6d5-4114-afba-e50ab26254d2"
 				},
 				"image": [
 					{
@@ -1550,14 +1593,15 @@
 				}
 			},
 			{
-				"name": "I Can See You (Taylor’s Version) (From the Vault)",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/I+Can+See+You+(Taylor%E2%80%99s+Version)+(From+the+Vault)",
-				"duration": 0,
+				"name": "Say Don't Go (Taylor's Version) (From the Vault)",
+				"playcount": 3,
+				"mbid": "2616d451-e5a1-499c-b36d-dca955ed4e7f",
+				"url": "https://www.last.fm/music/Taylor+Swift/_/Say+Don%27t+Go+(Taylor%27s+Version)+(From+the+Vault)",
+				"duration": 279,
 				"artist": {
 					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"url": "https://www.last.fm/music/Taylor+Swift",
+					"mbid": "20244d07-534f-4eff-b4d4-930878889970"
 				},
 				"image": [
 					{
@@ -1586,14 +1630,15 @@
 				}
 			},
 			{
-				"name": "Karma",
-				"playcount": 1,
-				"mbid": "2ed17b75-4306-4f20-a619-e7e0b38cce82",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/Karma",
-				"duration": 204,
+				"name": "You're on Your Own, Kid",
+				"playcount": 3,
+				"mbid": "7a71a89e-c290-47f2-ae7d-2e34d16f4b1a",
+				"url": "https://www.last.fm/music/Taylor+Swift/_/You%27re+on+Your+Own,+Kid",
+				"duration": 231,
 				"artist": {
 					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"url": "https://www.last.fm/music/Taylor+Swift",
+					"mbid": "20244d07-534f-4eff-b4d4-930878889970"
 				},
 				"image": [
 					{
@@ -1622,14 +1667,15 @@
 				}
 			},
 			{
-				"name": "Miss Americana & the Heartbreak Prince",
-				"playcount": 1,
-				"mbid": "3f0e5667-d8ec-40a3-ba97-2e8d723a7dea",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/Miss+Americana+&+the+Heartbreak+Prince",
-				"duration": 234,
+				"name": "Wildfire (LEC Version)",
+				"playcount": 2,
+				"mbid": "6d95b8aa-61d2-4850-83e3-6d164f8a2132",
+				"url": "https://www.last.fm/music/Against+the+Current/_/Wildfire+(LEC+Version)",
+				"duration": 189,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Against the Current",
+					"url": "https://www.last.fm/music/Against+the+Current",
+					"mbid": "c40a79e9-3b9e-492e-9469-0e5b952ad3e1"
 				},
 				"image": [
 					{
@@ -1658,14 +1704,15 @@
 				}
 			},
 			{
-				"name": "New Romantics",
-				"playcount": 1,
-				"mbid": "74ab8975-280f-45d1-9154-78f9cfea10b8",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/New+Romantics",
-				"duration": 230,
+				"name": "Do I Wanna Know?",
+				"playcount": 2,
+				"mbid": "04617fd5-706c-4326-a122-19d5f841f316",
+				"url": "https://www.last.fm/music/Arctic+Monkeys/_/Do+I+Wanna+Know%3F",
+				"duration": 272,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Arctic Monkeys",
+					"url": "https://www.last.fm/music/Arctic+Monkeys",
+					"mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
 				},
 				"image": [
 					{
@@ -1694,14 +1741,15 @@
 				}
 			},
 			{
-				"name": "no body, no crime (feat. HAIM)",
-				"playcount": 1,
-				"mbid": "",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/no+body,+no+crime+(feat.+HAIM)",
-				"duration": 215,
+				"name": "positions",
+				"playcount": 2,
+				"mbid": "0a86b0ca-1b50-4462-b706-537ed22c1ea8",
+				"url": "https://www.last.fm/music/Ariana+Grande/_/positions",
+				"duration": 172,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Ariana Grande",
+					"url": "https://www.last.fm/music/Ariana+Grande",
+					"mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
 				},
 				"image": [
 					{
@@ -1730,14 +1778,15 @@
 				}
 			},
 			{
-				"name": "Say Don't Go (Taylor's Version) (From the Vault)",
-				"playcount": 1,
-				"mbid": "2616d451-e5a1-499c-b36d-dca955ed4e7f",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/Say+Don%27t+Go+(Taylor%27s+Version)+(From+the+Vault)",
-				"duration": 279,
+				"name": "I’m a Mess (feat. YUNGBLUD)",
+				"playcount": 2,
+				"mbid": "",
+				"url": "https://www.last.fm/music/Avril+Lavigne/_/I%E2%80%99m+a+Mess+(feat.+YUNGBLUD)",
+				"duration": 0,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Avril Lavigne",
+					"url": "https://www.last.fm/music/Avril+Lavigne",
+					"mbid": ""
 				},
 				"image": [
 					{
@@ -1766,14 +1815,15 @@
 				}
 			},
 			{
-				"name": "So High School",
-				"playcount": 1,
-				"mbid": "86c2568a-bb6f-4f9a-b491-d2ab09757849",
-				"url": "https://www.last.fm/music/Taylor+Swift/_/So+High+School",
-				"duration": 228,
+				"name": "Keep Holding On",
+				"playcount": 2,
+				"mbid": "021be53a-fb03-43fa-bafd-0eadbc2754a7",
+				"url": "https://www.last.fm/music/Avril+Lavigne/_/Keep+Holding+On",
+				"duration": 240,
 				"artist": {
-					"name": "Taylor Swift",
-					"url": "https://www.last.fm/music/Taylor+Swift"
+					"name": "Avril Lavigne",
+					"url": "https://www.last.fm/music/Avril+Lavigne",
+					"mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193"
 				},
 				"image": [
 					{
@@ -1804,10 +1854,10 @@
 		],
 		"@attr": {
 			"user": "alator21",
-			"totalPages": 2,
+			"totalPages": 9,
 			"page": 1,
 			"perPage": 50,
-			"total": 56
+			"total": 441
 		}
 	}
 }
