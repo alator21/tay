@@ -14,25 +14,21 @@ describe("image_banner_generator", () => {
 			appContactInfo: 'botazz133@gmail.com'
 		})
 	});
-
-	test("creates simple banner", async () => {
+	test.each([
+		{ style: 'default' as const },
+		{ style: 'style2' as const },
+		{ style: 'style3' as const },
+		{ style: 'style4' as const },
+		{ style: 'style5' as const },
+	])("generates banners", async ({ style }) => {
 		const tracks = await getMockTracks();
 		// const tracks = await getRealTracks();
 		const enrichedTracks = await enrichTracks(tracks);
 
-		const banner = await generateImageBanner({ tracks: enrichedTracks, style: 'default', period: '7day' });
-		Bun.write('top_tracks_banner.png', banner);
-		// console.log(banner);
+		const banner = await generateImageBanner({ tracks: enrichedTracks, style, period: '7day' });
+		Bun.write(`top_tracks_banner_${style}.png`, banner);
+
 	});
-
-	test.skip("creates experimental banner", async () => {
-		const tracks = await Bun.file('src/banner/__tests__/mock-tracks.json').json();
-		// const tracks = await getTopTracks({ user: 'alator21' });
-
-		const banner = await generateImageBanner({ tracks: tracks.toptracks.track, period: '7day', style: 'experimental' });
-		console.log(banner);
-	});
-
 
 	async function getRealTracks() {
 		return (await getTopTracks({ user: 'alator21' })).toptracks.track.slice(0, 5);
