@@ -1,6 +1,7 @@
+import type { GetTopTracksResponse } from "@alator21/lastfm";
 import { pluralize } from "../internal/pluralize";
-import type { GetTopTracksResponse, Period } from "../lastfm/user/getTopTracks";
 
+type Period = '7day';
 type Track = GetTopTracksResponse['toptracks']['track'][0];
 type GenerateTextBannerRequest = {
 	tracks: Array<Track>;

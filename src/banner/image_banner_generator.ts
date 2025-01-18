@@ -1,6 +1,6 @@
-import type { Period } from "../lastfm/user/getTopTracks";
 import { createCanvas, loadImage } from '@napi-rs/canvas';
 
+type Period = '7day';
 type GenerateImageBannerRequest = {
 	tracks: Array<{
 		name: string;

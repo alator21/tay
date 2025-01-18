@@ -1,13 +1,12 @@
 import { test, describe, beforeAll } from "bun:test";
-import { initializeLastFmApi } from "../../lastfm/api";
 import { generateImageBanner } from "../image_banner_generator";
 import { initializeMusicBrainzApi } from "../../musicbrainz/api";
-import { getTopTracks } from "../../lastfm/user/getTopTracks";
 import { ARTIST_IMAGE_CACHE, enrichTracks } from "../../extra-metadata/enrichTracks";
+import { getTopTracks, initializeLastFmApi } from "@alator21/lastfm";
 
 describe("image_banner_generator", () => {
 	beforeAll(() => {
-		initializeLastFmApi(process.env.API_KEY!);
+		initializeLastFmApi(process.env.API_KEY!, process.env.SHARED_SECRET!);
 		initializeMusicBrainzApi({
 			appName: 'alator21-tay',
 			appVersion: '0.0.1',

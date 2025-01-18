@@ -1,7 +1,7 @@
 import type { IRelation } from "musicbrainz-api";
 import { getApi } from "../musicbrainz/api";
 import { z } from "zod";
-import type { GetTopTracksResponse } from "../lastfm/user/getTopTracks";
+import type { GetTopTracksResponse } from "@alator21/lastfm";
 
 // exported only for testing
 export const ARTIST_IMAGE_CACHE: Map<string, string> = new Map();
